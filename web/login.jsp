@@ -1,7 +1,7 @@
 <%-- 
     Document   : login
     Created on : 22/07/2020, 09:40:39 PM
-    Author     : LENOVO
+    Author     : Jose Padilla
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        Ingrese usuario y clave
+        <a href="menu.jsp">ingresar</a>
     </body>
 </html>

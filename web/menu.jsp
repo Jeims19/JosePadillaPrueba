@@ -1,7 +1,7 @@
 <%-- 
     Document   : menu
     Created on : 22/07/2020, 09:40:50 PM
-    Author     : LENOVO
+    Author     : Jose Padilla
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -12,6 +12,12 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+    <th>Bienvenido</th>
+    1. facturacion <br>
+    2. compras<br>
+    3. datos clientes<br>
+    4. datos productos<br>
+    5. datos proveedor<br>
+    6. salir
     </body>
 </html>
