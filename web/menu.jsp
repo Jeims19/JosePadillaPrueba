@@ -12,7 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-    <th>Bienvenido</th>
+    BIENVENIDOS<br>
     1. facturacion <br>
     2. compras<br>
     3. datos clientes<br>
